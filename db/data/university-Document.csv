@@ -1,0 +1,5 @@
+student_studentId,docType,fileUrl
+S001,ID Card,/files/idcard_s001.pdf
+S002,Marksheet,/files/marksheet_s002.pdf
+S003,Hostel Form,/files/hostel_s003.pdf
+S004,Library Card,/files/lib_s004.pdf
